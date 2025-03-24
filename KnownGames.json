@@ -1,0 +1,16 @@
+[
+    {
+        "Name": "Game 1",
+        "ExecutableName": "game1.exe",
+        "Version": "1.0.0",
+        "Publisher": "Publisher 1",
+        "Identifier": "12345"
+    },
+    {
+        "Name": "Game 2",
+        "ExecutableName": "game2.exe",
+        "Version": "2.1.0",
+        "Publisher": "Publisher 2",
+        "Identifier": "67890"
+    }
+]
